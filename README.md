@@ -1,4 +1,4 @@
-Joomla_FB_connect_languages
+Original language files for Facebook Joomla connect
 ===========================
 Language files for Joomla Facebook connect (http://www.sanwebe.com/2012/04/facebook-connect-2-0-for-joomla)
 are located inside "Languages" and "Modules" folder.
